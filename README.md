@@ -1,1 +1,1 @@
-# python-basic-code-example-with-exception
+# python-exercise-with-exception
